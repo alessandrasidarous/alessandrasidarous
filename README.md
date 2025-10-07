@@ -1,11 +1,76 @@
-<h1 align="center">Hi 👋, I'm Alessandra Sidarous</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <!-- Header -->
+  <h1>👋 Hi, I’m Alessandra Sidarous</h1>
+  <p>
+    🎓 Master's student in <strong>Computer Engineering</strong> — specialization in
+    <strong>AI & Data Analysis</strong>.<br>
+    💡 Bachelor's degree in <strong>Management Engineering</strong> (Computer Science track).
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <!-- Typing / Intro -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=2b2e3b&width=650&lines=I+am+learning+by+building.;I+love+data,+AI+and+practical+projects.;Ready+to+join+a+student+tech+team+and+grow+together." 
+         alt="Typing SVG" />
+  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrasidarous&show_icons=true&locale=en&layout=compact" alt="alessandrasidarous" /></p>
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Learning-yellow" alt="Learning badge" />
+    <img src="https://img.shields.io/badge/Role-Student-informational" alt="Student badge" />
+    <img src="https://img.shields.io/badge/Looking%20for-Student%20Team-blue" alt="Looking for team" />
+  </p>
+</div>
+
+---
+
+<!-- About & Mindset -->
+### 💻 About me
+I enjoy turning theoretical knowledge into working prototypes. I'm still learning, and I'm highly motivated to improve my skills through **practical projects, teamwork and mentorship**.  
+I'm currently looking for opportunities to contribute to a student tech team where I can both **help build** and **grow my skills**.
+
+---
+
+### 🧰 Tech stack
+- **Languages:** Python 🐍, Java ☕, JavaScript, PHP  
+- **Web:** HTML, CSS  
+- **Data & DB:** SQL  
+- **Fields of interest:** Machine Learning, Data Analysis, Full-stack prototyping
+
+---
+
+### 🚀 Projects & experiments
+Below are small projects and learning experiments that showcase my progression — each project is a step towards applying classroom concepts in real scenarios.
+
+- 🔗 **AI & ML mini-projects** — Python notebooks & models (link to repo)  
+- 🔗 **Data analysis dashboards** — exploratory notebooks and charts (link to repo)  
+- 🔗 **Web apps** — simple frontend + backend prototypes (link to repo)
+
+> 📌 *Tip:* Pin your best/most relevant repos so recruiters and team leads see them first.
+
+---
+
+### 🌱 Currently learning & goals
+- Strengthen ML fundamentals and model evaluation  
+- Improve data visualization and storytelling with data  
+- Build more full-stack proofs-of-concept to ship end-to-end features
+
+I’m open to feedback, small tasks, and collaborative challenges — I learn fastest by doing.
+
+---
+
+### 📫 Contact
+- ✉️ Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
+- 🔗 Website / Portfolio: <a href="https://alessandrasidarous.github.io" target="_blank" rel="noopener noreferrer">alessandrasidarous.github.io</a>  
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alessandrasidarous" target="_blank" rel="noopener noreferrer">linkedin.com/in/alessandrasidarous</a>
+
+---
+
+<!-- GitHub stats (visual) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandrasidarous&show_icons=true&title_color=2f80ed&icon_color=2f80ed&locale=en" alt="Alessandra's GitHub stats" />
+</div>
+
+---
+
 
 
