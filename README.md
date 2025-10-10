@@ -20,19 +20,7 @@ I love learning by doing, especially through hands-on projects that challenge me
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-
-### 🌱 Currently learning & goals
-- Strengthen ML fundamentals and model evaluation  
-- Improve data visualization and storytelling with data  
-- Build more full-stack proofs-of-concept to ship end-to-end features
-
-I’m open to feedback, small tasks, and collaborative challenges — I learn fastest by doing.
-
-
-
----
 
 
 
