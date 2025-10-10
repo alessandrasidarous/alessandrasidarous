@@ -6,19 +6,6 @@
   I’m passionate about exploring how artificial intelligence, data, and software can work together to create smart, efficient, and impactful solutions.
 I love learning by doing, especially through hands-on projects that challenge me to connect theory with practice.
   </p>
-
-  <!-- Typing / Intro -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=2b2e3b&width=650&lines=I+am+learning+by+building.;I+love+data,+AI+and+practical+projects.;Ready+to+join+a+student+tech+team+and+grow+together." 
-         alt="Typing SVG" />
-  </p>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Learning-yellow" alt="Learning badge" />
-    <img src="https://img.shields.io/badge/Role-Student-informational" alt="Student badge" />
-    <img src="https://img.shields.io/badge/Looking%20for-Student%20Team-blue" alt="Looking for team" />
-  </p>
 </div>
 
 ---
