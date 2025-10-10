@@ -10,31 +10,18 @@ I love learning by doing, especially through hands-on projects that challenge me
 
 ---
 
-<!-- About & Mindset -->
-### 💻 About me
-I enjoy turning theoretical knowledge into working prototypes. I'm still learning, and I'm highly motivated to improve my skills through **practical projects, teamwork and mentorship**.  
-I'm currently looking for opportunities to contribute to a student tech team where I can both **help build** and **grow my skills**.
-
----
 
 ### 🧰 Tech stack
-- **Languages:** Python 🐍, Java ☕, JavaScript, PHP  
-- **Web:** HTML, CSS  
-- **Data & DB:** SQL  
-- **Fields of interest:** Machine Learning, Data Analysis, Full-stack prototyping
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🚀 Projects & experiments
-Below are small projects and learning experiments that showcase my progression — each project is a step towards applying classroom concepts in real scenarios.
-
-- 🔗 **AI & ML mini-projects** — Python notebooks & models (link to repo)  
-- 🔗 **Data analysis dashboards** — exploratory notebooks and charts (link to repo)  
-- 🔗 **Web apps** — simple frontend + backend prototypes (link to repo)
-
-> 📌 *Tip:* Pin your best/most relevant repos so recruiters and team leads see them first.
-
----
 
 ### 🌱 Currently learning & goals
 - Strengthen ML fundamentals and model evaluation  
@@ -43,19 +30,7 @@ Below are small projects and learning experiments that showcase my progression �
 
 I’m open to feedback, small tasks, and collaborative challenges — I learn fastest by doing.
 
----
 
-### 📫 Contact
-- ✉️ Email: <a href="mailto:your.email@example.com">your.email@example.com</a>  
-- 🔗 Website / Portfolio: <a href="https://alessandrasidarous.github.io" target="_blank" rel="noopener noreferrer">alessandrasidarous.github.io</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/alessandrasidarous" target="_blank" rel="noopener noreferrer">linkedin.com/in/alessandrasidarous</a>
-
----
-
-<!-- GitHub stats (visual) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrasidarous&show_icons=true&title_color=2f80ed&icon_color=2f80ed&locale=en" alt="Alessandra's GitHub stats" />
-</div>
 
 ---
 
