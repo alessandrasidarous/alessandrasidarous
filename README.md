@@ -2,9 +2,9 @@
   <!-- Header -->
   <h1>👋 Hi, I’m Alessandra Sidarous</h1>
   <p>
-    🎓 Master's student in <strong>Computer Engineering</strong> — specialization in
-    <strong>AI & Data Analysis</strong>.<br>
-    💡 Bachelor's degree in <strong>Management Engineering</strong> (Computer Science track).
+    🎓 I’m a Master’s student in Computer Engineering, specializing in Artificial Intelligence and Data Analytics, and I hold a Bachelor’s degree in Management Engineering with a focus on Computer Science.
+  I’m passionate about exploring how artificial intelligence, data, and software can work together to create smart, efficient, and impactful solutions.
+I love learning by doing, especially through hands-on projects that challenge me to connect theory with practice.
   </p>
 
   <!-- Typing / Intro -->
